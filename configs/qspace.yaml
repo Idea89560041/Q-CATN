@@ -1,0 +1,23 @@
+gpu_ids: [0, 1, 2, 3]
+
+gen:
+  dim: 64
+  mlp_dim: 256
+  style_dim: 4
+  activ: relu
+  n_downsample: 2
+  n_res: 4
+  pad_type: reflect
+  g_type: resnet
+  input_domain: 3
+
+# data options
+input_dim: 1
+output_dim: 1
+num_workers: 4
+pad_size: 160
+data_root: ../dataset
+
+# dataset folder location
+dataset:  HCP 
+n_dwi: 2
