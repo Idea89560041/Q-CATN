@@ -1,6 +1,6 @@
 # Q-CATN
 
-This is the pytorch implementation of our manuscript "Q-space Guided Collaborative Attention Translation Networks for Diffusion Weighted Images Synthesis".
+This is the pytorch implementation of our manuscript "Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis".
 
 **Dependencies**
 
