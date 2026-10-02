@@ -1,6 +1,6 @@
 # Q-CATN
 
-PyTorch implementation of **Q-Space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis**, presented at MICCAI 2025. [Paper](https://doi.org/10.1007/978-3-032-04947-6_48)
+PyTorch implementation of **Q-Space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis**, presented at *MICCAI 2025, Early Accepted, Poster Highlights*. [Paper](https://doi.org/10.1007/978-3-032-04947-6_48)
 
 Q-CATN synthesizes diffusion-weighted images from b0, T1-weighted, and T2-weighted MRI, conditioned on the desired b-vector and b-value. Collaborative attention integrates complementary information across modalities, while q-space conditioning supports flexible diffusion sampling.
 
